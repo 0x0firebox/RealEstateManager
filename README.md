@@ -45,9 +45,7 @@ The app incorporates a Loan Simulator as an extra feature.
 
 ## Developed By
 
-Diego Fajardo
-
-    Copyright 2018 Diego Fajardo
+[Faheim](mailto:fahiem@gmail.com)
     
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
